@@ -7,4 +7,7 @@ Using Python and an API key to pull data from USAJOBS, storing the extracted dat
   1. Download and open both py files
   2. Install MySQL Workbench
   3. Ensure you have a connection between Python and MySQL
-  4. Ensure pyspark is properly installed on your machine before running data_extract.py 
+  4. Ensure pyspark is properly installed on your machine before running data_extract.py
+     
+# Sources 
+Source of API key: https://developer.usajobs.gov/api-reference/
